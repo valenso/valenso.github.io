@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "How to run telegram bot with docker"
-date:   2020-11-17
-description: 
+date:   2020-11-17 00:00:00 +0100
 categories: Software developing
-author: Valentin
+permalink: /how-to-run-telegram-bot-with-docker/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgkKNpCFDDU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

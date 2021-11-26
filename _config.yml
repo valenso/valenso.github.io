@@ -1,42 +1,44 @@
 # Site/SEO settings
-email: hello@valenso.online
+email: okay@samesies.io
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Valentin
-title: Valenso
+name: Thomas Vaeth
+title: The Barber Theme
 description: >
-  
-url: https://valenso.online
-twitter_username: valenso
+  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+url: http://barber.samesies.io
+twitter_username: thomasvaeth
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/valenso
+    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/valenso/
+    url: https://www.instagram.com/thomas.vaeth/
   - name: linkedin
-    url: https://www.linkedin.com/in/valenso/
+    url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
-    url: https://github.com/valenso
+    url: https://github.com/samesies
+  - name: codepen
+    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/j1Sq4p7vr5e
+formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
 disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://online.us8.list-manage.com/subscribe/post?u=5ff97a55ff85d2912cd337ec0&amp;id=cb0d56c929
-mailchimp_input: b_5ff97a55ff85d2912cd337ec0_cb0d56c929
+mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Valentin
-    bio: 
-    url: https://valenso.online
+  - name: Thomas Vaeth
+    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+    url: http://thomasvaeth.com
 
 # Pagination settings
 pagination:
